@@ -1,0 +1,7 @@
+
+.cell{
+    width:calc(100% / 60);
+    height: calc(40vh / 25);
+    background-color: black;
+    
+}
